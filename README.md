@@ -1,5 +1,13 @@
-### Hi there 👋
+### Daniel Murilo Vaz :octocat:
+I'm a guy who loves technology. 
+Trying to survive in the world of web development, 
+through knowledge and perseverance
 
+this is my profile!!! :smiley:
+
+- Now I'm work with help desk :computer:	:telephone_receiver:
+- Currently learning NodeJS, VueJS :notebook: :pencil2:
+- 📫 How to reach me: 
 <!--
 **daniellvaz/daniellvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
