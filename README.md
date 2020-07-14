@@ -13,6 +13,7 @@ This is my profile!!! :smiley:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)](https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniellmurilo/)](https://www.instagram.com/daniellmurilo/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-inactive?style=flat-square&logo=Github&logoColor=white&link=https://github.com/daniellvaz)](https://github.com/daniellvaz)
 
 <!--
 **daniellvaz/daniellvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
