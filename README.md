@@ -12,7 +12,7 @@ This is my profile!!! :smiley:
 - 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)](https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purpure?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniellmurilo/)](https://www.instagram.com/daniellmurilo/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-puple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniellmurilo/)](https://www.instagram.com/daniellmurilo/)
 
 <!--
 **daniellvaz/daniellvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
