@@ -8,6 +8,7 @@ This is my profile!!! :smiley:
 - Now I'm work with help desk :computer:	:telephone_receiver:
 - Currently learning NodeJS, VueJS :notebook: :pencil2:
 - 📫 How to reach me: 
+
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)](https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)
 
 <!--
