@@ -2,6 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)](https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniellmurilo/)](https://www.instagram.com/daniellmurilo/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/daniellvaz)](https://github.com/daniellvaz)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=https://daniellmvaz@gmail.com)](https://daniellmvaz@gmail.com)
+
 I'm a guy who loves technology. 
 
 Trying to survive in the world of web development, 
@@ -15,7 +17,7 @@ This is my profile!!! :smiley:
 - ⚡ facts about me: 
     - guitar player :guitar:
     - love games :video_game:
-    - love cook :food:
+    - love cook  :spaghetti:
 
 
 <!--
