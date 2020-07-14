@@ -1,6 +1,8 @@
 ### Daniel Murilo Vaz :octocat:
 I'm a guy who loves technology. 
+
 Trying to survive in the world of web development, 
+
 through knowledge and perseverance
 
 This is my profile!!! :smiley:
