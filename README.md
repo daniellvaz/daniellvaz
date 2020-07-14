@@ -7,10 +7,12 @@ This is my profile!!! :smiley:
 
 - Now I'm work with help desk :computer:	:telephone_receiver:
 - Currently learning NodeJS, VueJS :notebook: :pencil2:
+- ⚡ Fun fact: 
+  
 - 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)](https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)
-[![Github Badge](https://img.shields.io/badge/-Github-white?style=flat-square&logo=Githubn&logoColor=white&link=https://github.com/daniellvaz)](https://github.com/daniellvaz)
+[![GitHub stars](https://img.shields.io/github/stars/tterb/playmusic.svg?style=social&label=Star)](https://github.com/daniellvaz)
 
 <!--
 **daniellvaz/daniellvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
