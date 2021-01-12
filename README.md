@@ -5,15 +5,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://daniellmvaz@gmail.com)](https://daniellmvaz@gmail.com)
 
 I'm a guy who loves technology. 
-
 Trying to survive in the world of web development, 
-
-through knowledge and perseverance
+through knowledge and perseverance.
 
 This is my profile!!! :smiley:
 
 - Now I'm work with help desk :computer:	:telephone_receiver:
-- Currently learning NodeJS, VueJS :notebook: :pencil2:
+- Currently learning NodeJS, ReactJs ande React Native :notebook: :pencil2:
 - ⚡ facts about me: 
     - guitar player :guitar:
     - love games :video_game:
