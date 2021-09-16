@@ -4,14 +4,18 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/daniellvaz)](https://github.com/daniellvaz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://daniellmvaz@gmail.com)](https://daniellmvaz@gmail.com)
 
+This is my profile!!! :smiley:
+
 I'm a guy who loves technology. 
 Trying to survive in the world of web development, 
 through knowledge and perseverance.
 
-This is my profile!!! :smiley:
 
-- Now I'm work with help desk :computer:	:telephone_receiver:
-- Currently learning NodeJS, ReactJs ande React Native :notebook: :pencil2:
+- React ⚛️
+- React Native ⚛️
+- NodeJs    
+
+
 - ⚡ facts about me: 
     - guitar player :guitar:
     - love games :video_game:
