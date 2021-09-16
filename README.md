@@ -4,7 +4,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/daniellvaz)](https://github.com/daniellvaz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://daniellmvaz@gmail.com)](https://daniellmvaz@gmail.com)
 
-Personal web site: www.daniellvaz.com.br/
+Personal web site: www.daniellvaz.com
 
 This is my profile!!! :smiley:
 
