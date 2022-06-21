@@ -23,17 +23,6 @@ through knowledge and perseverance.
     - love games :video_game:
     - love cook  :spaghetti:
 
-
-<!--
-**daniellvaz/daniellvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
 <a href="https://app.daily.dev/daniellvaz">
     <img src="https://api.daily.dev/devcards/2a49a88f153144cf840f1ee707f5b0a8.png?r=8db" width="400" alt="Daniell Murilo's Dev Card"/>
 </a>
