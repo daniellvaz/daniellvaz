@@ -1,3 +1,5 @@
+
+<div style="display: flex;">
 ### Daniel Murilo Vaz :octocat:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)](https://www.linkedin.com/in/daniel-murilo-vaz-970376126/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniellmurilo/)](https://www.instagram.com/daniellmurilo/)
@@ -26,3 +28,5 @@ through knowledge and perseverance.
 <a href="https://app.daily.dev/daniellvaz">
     <img src="https://api.daily.dev/devcards/2a49a88f153144cf840f1ee707f5b0a8.png?r=8db" width="400" alt="Daniell Murilo's Dev Card"/>
 </a>
+
+</div>
