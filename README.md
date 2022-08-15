@@ -31,7 +31,7 @@
 </h1>
 
 <table style="border: none;">
-<tr style="border: none;>
+<tr style="border: none;">
 
 <td style="border: none;>
 
