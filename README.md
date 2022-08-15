@@ -4,7 +4,7 @@
     Daniel Murilo Vaz
 </h1>
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex;">
 <a href="https://www.linkedin.com/in/daniel-murilo-vaz-970376126/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/">
 </img>
@@ -30,10 +30,10 @@
     </a>
 </h1>
 
-<table style="border: none">
-<tr>
+<table style="border: none;">
+<tr style="border: none;>
 
-<td>
+<td style="border: none;>
 
 <h2 style="text-align: center">
     This is my profile!!! 😃
@@ -67,7 +67,7 @@
 </ul>  
 <td>
 
-<td>
+<td style="border: none;>
 <a href="https://app.daily.dev/daniellvaz">
     <img src="https://api.daily.dev/devcards/2a49a88f153144cf840f1ee707f5b0a8.png?r=8db" width="400" alt="Daniell Murilo's Dev Card"/>
 </a>
