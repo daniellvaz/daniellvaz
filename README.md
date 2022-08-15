@@ -67,6 +67,7 @@
 </ul>  
 <td>
 
+<<<<<<< HEAD
 <td>
 <a href="https://app.daily.dev/daniellvaz">
     <img src="https://api.daily.dev/devcards/2a49a88f153144cf840f1ee707f5b0a8.png?r=8db" width="400" alt="Daniell Murilo's Dev Card"/>
@@ -76,9 +77,4 @@
 </tr>
 
 </table>
-
-
-
-
-
 
