@@ -1,6 +1,6 @@
 
 
-<h1 style="text-align:center; padding: 1rem;">
+<h1 style="text-align:center">
     Daniel Murilo Vaz
 </h1>
 
