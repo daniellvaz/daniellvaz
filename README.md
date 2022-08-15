@@ -4,7 +4,7 @@
     Daniel Murilo Vaz
 </h1>
 
-<div style="padding: 1rem; display: flex; align-items: center; justify-content: center">
+<div style="display: flex; justify-content: center">
 <a href="https://www.linkedin.com/in/daniel-murilo-vaz-970376126/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/">
 </img>
@@ -30,8 +30,10 @@
     </a>
 </h1>
 
-<div style="display: flex">
-<div>
+<table>
+<tr>
+
+<td>
 
 <h2 style="text-align: center">
     This is my profile!!! 😃
@@ -43,8 +45,7 @@
     through knowledge and perseverance.
 <p>
 
-<div style="padding: 1rem; display: flex">
-<div>
+
 <strong>
 💻Stacks:
 </strong>
@@ -54,9 +55,7 @@
     <li>React Native ⚛️</li>
     <li>NodeJs 🔥</li>
 </ul>  
-</div>
 
-<div>
 <strong>
     ⚡ facts about me:
 </strong>
@@ -66,16 +65,19 @@
     <li>love games 🎮</li>
     <li>love cook  👨‍🍳</li>
 </ul>  
-</div>
+<td>
 
-</div> 
-
-</div>
-
+<td>
 <a href="https://app.daily.dev/daniellvaz">
     <img src="https://api.daily.dev/devcards/2a49a88f153144cf840f1ee707f5b0a8.png?r=8db" width="400" alt="Daniell Murilo's Dev Card"/>
 </a>
-</div>
+</td>
+
+</tr>
+
+</table>
+
+
 
 
 
