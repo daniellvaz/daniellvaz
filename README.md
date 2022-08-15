@@ -4,7 +4,7 @@
     Daniel Murilo Vaz
 </h1>
 
-<div style="display: flex;">
+<p style="text-align:center">
 <a href="https://www.linkedin.com/in/daniel-murilo-vaz-970376126/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/">
 </img>
@@ -21,7 +21,7 @@
 <a href="https://daniellmvaz@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://daniellmvaz@gmail.com"></img>
 </a>
-</div>
+</p>
 
 <h1>
     Personal web site: 
