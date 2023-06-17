@@ -27,9 +27,7 @@
 
 <h1>
     Personal web site: 
-    <a href="www.daniellvaz.com">
-        www.daniellvaz.com
-    </a>
+    [www.daniellvaz.com](https://www.danielmurilo.com.br/)
 </h1>
 
 <table style="border: none;">
