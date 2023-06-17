@@ -24,9 +24,11 @@
 </a>
 </div>
 </p>
-<a href="https://www.danielmurilo.com.br/">
-    Portfolio
-</a>
+<h1>
+    <a href="https://www.danielmurilo.com.br/">
+        Portfolio
+    </a>
+</h1>
 <table style="border: none;">
 <tr style="border: none;">
 
