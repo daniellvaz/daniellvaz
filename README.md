@@ -24,12 +24,7 @@
 </a>
 </div>
 </p>
-
-<h1>
-    Personal web site: 
-    [www.daniellvaz.com](https://www.danielmurilo.com.br/)
-</h1>
-
+[www.daniellvaz.com](https://www.danielmurilo.com.br/)
 <table style="border: none;">
 <tr style="border: none;">
 
