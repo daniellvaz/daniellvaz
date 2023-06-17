@@ -25,7 +25,7 @@
 </div>
 </p>
 <h1>
-    <a href="https://www.danielmurilo.com.br/">
+    <a href="https://www.danielmurilo.com.br/" targuet="_blank">
         Portfolio
     </a>
 </h1>
