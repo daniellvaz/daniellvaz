@@ -1,5 +1,3 @@
-
-
 <h1 style="text-align:center">
     Daniel Murilo Vaz
 </h1>
