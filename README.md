@@ -1,76 +1,23 @@
-<h1 style="text-align:center">
-    Daniel Murilo Vaz
-</h1>
+## 👋 Hello, I'm Daniel!
 
-<p style="text-align:center">
-<div style="text-align:center">
-<a href="https://www.linkedin.com/in/daniel-murilo-vaz-970376126/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-murilo-vaz-970376126/">
-</img>
-</a>
+🚀 Passionate Web Developer with a love for technology and innovation. With years of experience in crafting web solutions, I am always seeking challenges that allow me to enhance my skills and contribute to amazing projects.
 
-<a href="https://www.instagram.com/daniellmurilo/">
-<img src="https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniellmurilo/"></img>
-</a>
+💻 My professional journey is marked by elegant code, robust architectures, and the relentless pursuit of best practices. I love exploring new technologies and frameworks to ensure I stay updated with the latest trends in the programming world.
 
-<a href="https://github.com/daniellvaz">
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/daniellvaz"></img>
-</a>
+🎵 In addition to my intense involvement in the technology realm, my heart also beats strongly for music. Finding harmonies, rhythms, and melodies is my creative escape, and I always find inspiration for my work while delving into different musical genres.
 
-<a href="https://daniellmvaz@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://daniellmvaz@gmail.com"></img>
-</a>
-</div>
-</p>
-<h1>
-    <a href="https://daniellvaz.github.io/portfolio" target="_blank">
-        Portfolio
-    </a>
-</h1>
-<table style="border: none;">
-<tr style="border: none;">
+🌟 I'm always open to collaborations and new opportunities. Let's build something amazing together!
 
-<td style="border: none;>
+### 🔗 Connect with me:
 
-<h2 style="text-align: center">
-    This is my profile!!! 😃
-</h2>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-murilo-vaz)
+[![X](https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/daniellmvaz)
+[![](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/daniellmurilo)
 
-<p style="text-align: center">
-    I'm a guy who loves technology. 
-    Trying to survive in the world of web development, 
-    through knowledge and perseverance.
-<p>
+[Website](https://daniellvaz.github.io/portfolio/)
 
+### 🚀 Tags:
 
-<strong>
-💻Stacks:
-</strong>
-
-<ul>
-    <li>React ⚛️</li>
-    <li>React Native ⚛️</li>
-    <li>NodeJs 🔥</li>
-</ul>  
-
-<strong>
-    ⚡ facts about me:
-</strong>
-
-<ul>
-    <li>guitar player 🎸</li>
-    <li>love games 🎮</li>
-    <li>love cook  👨‍🍳</li>
-</ul>  
-<td>
-
-<td style="border: none;>
-<a href="https://app.daily.dev/daniellvaz">
-    <img src="https://api.daily.dev/devcards/2a49a88f153144cf840f1ee707f5b0a8.png?r=8db" width="400" alt="Daniell Murilo's Dev Card"/>
-</a>
-</td>
-
-</tr>
-
-</table>
-
+- #CodeWithJoy
+- #MusicLover
+- #TechEnthusiast
